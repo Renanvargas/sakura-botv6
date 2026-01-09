@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6.5;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF8800&center=falso&vCenter=falso&lines=%F0%9F%A7%A0+Vemonbot+%C3%A9+RenanBOT.amine+%F0%9F%A5%89;%F0%9F%A4%96+Bot+Oficial+Ativado+%E2%9A%99%EF%B8%8F;%F0%9F%94%A5+Feito+com+Intelig%C3%AAncia+%F0%9F%94%A5">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/4f50b847d0d078a954055.jpg" alt="SAKURA BOT" width="720">
+<img src= "https://t1.pixhost.to/thumbs/11485/682603157_whatsapp_image.jpg" alt="Renan BOT" width="720">
 </p>
 
 <p align="center">
